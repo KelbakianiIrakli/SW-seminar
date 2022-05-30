@@ -1,0 +1,232 @@
+Artur Signell <artur@vaadin.com>
+Artur Signell <artur.signell@itmill.com>
+Matti Tahvonen <matti.tahvonen@itmill.com>
+Leif Åstrand <leif@vaadin.com>
+Teemu Suo-Anttila <teemusa@vaadin.com>
+Marc Englund <marc.englund@itmill.com>
+Henri Sara <hesara@vaadin.com>
+Henri Sara <henri.sara@itmill.com>
+Joonas Lehtinen <joonas.lehtinen@itmill.com>
+Jouni Koivuviita <jouni.koivuviita@itmill.com>
+Johannes Dahlström <johannesd@vaadin.com>
+Jani Laakso <jani.laakso@itmill.com>
+John Ahlroos <john@vaadin.com>
+Anna Koskinen <Ansku@users.noreply.github.com>
+John Alhroos <john.ahlroos@itmill.com>
+Marko Grönroos <magi@iki.fi>
+Teemu Suo-Anttila <tsuoanttila@users.noreply.github.com>
+Sauli Tähkäpää <sauli@vaadin.com>
+Henrik Paul <henrik@vaadin.com>
+Johannes Dahlström <johannes.dahlstrom@vaadin.com>
+Denis Anisimov <denis@vaadin.com>
+Pekka Hyvönen <pekka@vaadin.com>
+Jonatan Kronqvist <jonatan.kronqvist@itmill.com>
+Tatu Lund <tatu@vaadin.com>
+Henri Sara <henri.sara@gmail.com>
+Ilia Motornyi <elmot@vaadin.com>
+Artur <artur@vaadin.com>
+Aleksi Hietanen <aleksi@vaadin.com>
+Jouni Koivuviita <jouni@vaadin.com>
+Marc Englund <marc@vaadin.com>
+Anna Koskinen <anna@vaadin.com>
+Automerge <automerge@vaadin.com>
+Erik Lumme <erik@vaadin.com>
+Ahmed Ashour <asashour@yahoo.com>
+Leif Åstrand <legioth@gmail.com>
+Zhe Sun <31067185+ZheSun88@users.noreply.github.com>
+Olli Tietäväinen <ollit@vaadin.com>
+Sun Zhe <31067185+ZheSun88@users.noreply.github.com>
+Adam Wagner <wbadam@users.noreply.github.com>
+Mika Murtojarvi <mika@vaadin.com>
+Jonatan Kronqvist <jonatan@vaadin.com>
+elmot <elmot@vaadin.com>
+Anastasia Smirnova <anasmi@utu.fi>
+Marko Gronroos <magi@vaadin.com>
+Juuso Valli <juuso@vaadin.com>
+Fabian Lange <lange.fabian@gmail.com>
+Markus Koivisto <markus@vaadin.com>
+Matti Tahvonen <matti@vaadin.com>
+Denis <denis@vaadin.com>
+Teppo Kurki <teppo.kurki@vaadin.com>
+Jens Jansson <peppe@vaadin.com>
+Anna Miroshnik <anna.miroshnik@arcadia.spb.ru>
+Jouni Koivuviita <jouni@jounikoivuviita.com>
+Teamcity <build@vaadin.com>
+Juho Nurminen <juho@vaadin.com>
+Mikael Grankvist <mikael.grankvist@itmill.com>
+Teemu Pöntelin <teemu@vaadin.com>
+Dmitrii Rogozin <dmitrii@vaadin.com>
+Patrik Lindström <patrik@vaadin.com>
+Matti Hosio <mhosio@vaadin.com>
+Petter Holmström <petter.holmstrom@itmill.com>
+Per-Åke Minborg <minborg@speedment.com>
+Sergey Budkin <sergey@vaadin.com>
+michaelvogt <michael@vaadin.com>
+elmot <elmotelmot.vaadin.com>
+Manolo Carrasco <manolo@vaadin.com>
+Mehdi Javan <32511762+mehdi-vaadin@users.noreply.github.com>
+Risto Yrjänä <risto.yrjana@itmill.com>
+Build Agent <build@vaadin.com>
+Alexey Fansky <alexey.fansky@effective-soft.com>
+Guillermo Alvarez <guillermo@vaadin.com>
+caalador <mikael.grankvist@gmail.com>
+Bogdan Udrescu <bogdan@vaadin.com>
+Haijian Wang <haijian@vaadin.com>
+patrik <patrik@vaadin.com>
+Henri Kerola <henri.kerola@itmill.com>
+Marco Collovati <mcollovati@gmail.com>
+Mikael Grankvist <mgrankvi@vaadin.com>
+Mikael Vappula <mikael@vaadin.com>
+Sami Ekblad <sami@vaadin.com>
+Knoobie <Knoobie@gmx.de>
+Tapio Aali <tapio@vaadin.com>
+Anthony Guerreiro <anthony@vaadin.com>
+Heikki Ohinmaa <heikki@vaadin.com>
+Johannes Tuikkala <johannes@vaadin.com>
+Teppo Kurki <teppo.kurki@itmill.com>
+ZheSun88 <zhe@vaadin.com>
+Felype Santiago Ferreira <felype@vaadin.com>
+Ilya Ermakov <ilya403403@gmail.com>
+Maciej Przepióra <matthew@vaadin.com>
+denisanisimov <denis@vaadin.com>
+Alejandro <alejandro.d.a@gmail.com>
+Tarek Oraby <42799254+tarekoraby@users.noreply.github.com>
+Johannes Tuikkala <johannes.tuikkala@itmill.com>
+Martin Vysny <martin@vysny.me>
+Taras Hupalo <taras.hupalo@gmail.com>
+tmattsso <thomas@vaadin.com>
+Guille <alvarezguille@users.noreply.github.com>
+adam <adam@vaadin.com>
+Ansku <Ansku@users.noreply.github.com>
+Jarno Rantala <jarno.rantala@vaadin.com>
+Miki <miki@vaadin.com>
+Mirjan Merruko <mirjan@vaadin.com>
+Petri Heinonen <petri@vaadin.com>
+Piotr Wilkin <piotr.wilkin@syndatis.com>
+Sebastian Nyholm <sebastian@vaadin.com>
+Steven Spungin <steven@spungin.tv>
+Jonni Nakari <jonni@egarden.fi>
+Teemu Pöntelin <teemu@vaadin.com>
+joheriks <joheriks@vaadin.com>
+Michael Benz <michael.benz@foconis.de>
+Mohamed Atique <mohamed.atique@renaissance-it.com>
+Mohamed Atique <mohamed.atique@renaissance-it.com>
+Sara Seppola <sara@vaadin.com>
+mtzukanov <mtzukanov@vaadin.com>
+Alejandro Duarte <alejandro@vaadin.com>
+Antti Tanhuanpää <antti@vaadin.com>
+Enver Haase <enver-haase@users.noreply.github.com>
+Marlon Richert <marlon@vaadin.com>
+Mikkel Nylend <mrminy@users.noreply.github.com>
+AMahdy AbdElAziz <amahdy7@gmail.com>
+DiegoSanzVi <40760222+DiegoSanzVi@users.noreply.github.com>
+Dos Moonen <darsstar@gmail.com>
+Gilberto Torrezan <gilberto-torrezan@users.noreply.github.com>
+Henri Muurimaa <henri.muurimaa@gmail.com>
+alexandruchiuariu <43343269+alexandruchiuariu@users.noreply.github.com>
+denis.magdenkov <denis.magdenkov@arcadia.spb.ru>
+Artem Godin <artem@vaadin.com>
+Giovanni Lovato <heruan@aldu.net>
+Jens Jansson <Peppe@users.noreply.github.com>
+Jonni Nakari <jonni@vaadin.com>
+Kari Söderholm <haprog@haprogszone.net>
+KatriHaapalinna <katri@vaadin.com>
+Petter Holmström <petter.holmstrom@outlook.com>
+Sami Ekblad <sami.ekblad@itmill.com>
+Sampsa Sohlman <sampsa@sohlman.com>
+Tomi Virtanen <tltv@vaadin.com>
+Yuriy Artamonov <jreznot@users.noreply.github.com>
+berndhopp <bernd@vaadin.com>
+mlindfors <majuli@vaadin.com>
+pag <gabi.antal88@gmail.com>
+Artur <Artur@Storm>
+Dmitrij Abolichin <dirolwhite@gmail.com>
+Edoardo Vacchi <uncommonnonsense@gmail.com>
+Johannes Häyry <johannes.hayry@vaadin.com>
+Joonas Lehtinen <joonas@vaadin.com>
+Maciej Przepióra <mac@vaadin.com>
+Maciej Przepióra <maciej@przepiora.me>
+Marko Grönroos <magi@vaadin.com>
+Mikhail Shabarov <mikhail@vaadin.com>
+S.W <wimmesberger@gmail.com>
+Thomas <thomas@vaadin.com>
+Tobse <1190109+TobseF@users.noreply.github.com>
+cuong-phan <39257573+cuong-phan@users.noreply.github.com>
+edler-san <19165931+edler-san@users.noreply.github.com>
+jtomass <juhani@vaadin.com>
+maxschuster <dev@maxschuster.eu>
+michael <michael@vaadin.com>
+sergey-vaadin <boudkine@yandex.ru>
+sergey-vaadin <sergey@vaadin.com>
+Felix Fontein <ff@dybuster.com>
+Flamenco <Flamenco@users.noreply.github.com>
+Ingo Kegel <ingo.kegel@ej-technologies.com>
+Jouni Koivuviita <jouni@jouni.me>
+Juha Seppänen <juha@vaadin.com>
+Martín López <mlopez@flowingcode.com>
+Mika Murtojärvi <mika@vaadin.com>
+Peter Lehto <peter@vaadin.com>
+Pontus Boström <pontus@vaadin.com>
+Stephan Knitelius <stephan@knitelius.com>
+Stéphane Nicoll <stephane.nicoll@gmail.com>
+Teemu Pöntelin <tehapo@gmail.com>
+Tien Nguyen <nqtien.dev@gmail.com>
+Yuriy Artamonov <artamonov@haulmont.com>
+juhopiirainen <49151232+juhopiirainen@users.noreply.github.com>
+rogozinds <rogozinds@gmail.com>
+wodencafe <wodencafe@gmail.com>
+A.Mahdy AbdelAziz <amahdy@users.noreply.github.com>
+AJ <M-AJ@users.noreply.github.com>
+Aki Väliaho <akivvaliaho@gmail.com>
+Alejandro J. C De Baca <acdebaca@users.noreply.github.com>
+Alexander Nittka <alex@nittka.de>
+Andreas Höhmann <ahoehma@googlemail.com>
+Anton Yegorov <anton.egorov.dev@gmail.com>
+Carlos Freund <carlosfreund@googlemail.com>
+Chris Morris <chris_morris@jordans.co.uk>
+Daniel Schwering <hd42@users.noreply.github.com>
+Filippo <f92dev@gmail.com>
+Grzegorz Solecki <contact@grzegorzsolecki.com>
+JenoDK <jenodekeyzer@gmail.com>
+Jens Jansson <jens.jansson@vaadin.com>
+Jens Jansson <peppe@users.noreply.github.com>
+Jeremy Stucki <jeremy@myelin.ch>
+Jerome Meyer <peergynt@users.noreply.github.com>
+Jonni Madekivi <jonni@egarden.fi>
+Klaudeta <31614592+Klaudeta@users.noreply.github.com>
+Koen De Cock <koendecock@users.noreply.github.com>
+Leonid Rozenblyum <lrozenblyum@gmail.com>
+Leviand <andrea.levanti@gmail.com>
+Maciej Aleksandrowicz <macvek@gmail.com>
+Marcus Hellberg <marcus@vaadin.com>
+Martin Vysny <vysny@baka.sk>
+Masashi Nakane <masashi.nakane@gmail.com>
+Mehdi Javan <mehdi@vaadin.com>
+Mikael Grankvist <mikael.grankvist@vaadin.com>
+Mikhail Buzuverov <star.guardian.mgn@gmail.com>
+Mikhail Shabarov <61410877+mshabarov@users.noreply.github.com>
+Morgan Pittkin <18724853+mpittkin@users.noreply.github.com>
+Norman Specht <norman.specht@infratix.de>
+Patrik Lindström <99639133+thevaadinman@users.noreply.github.com>
+Pekka <pekka@vaadin.com>
+Péter Török <31210544+torok-peter@users.noreply.github.com>
+Raphael Ackermann <raphael.ackermann@gmail.com>
+Risto Yrjänä <ripla@users.noreply.github.com>
+Rolf Smeds <rolf@vaadin.com>
+Sami Viitanen <sami.viitanen@vaadin.com>
+Samuel DALICHAMPT <sdalichampt@users.noreply.github.com>
+Stephen Wellington <steve@stevewellington.co.uk>
+Tomi Virkki <virkki@vaadin.com>
+Vladimir Kulev <me@lightoze.net>
+anssit <anssit@vaadin.com>
+apolds <simonapold@gmail.com>
+cbmeeks <cbmeeks@gmail.com>
+dunand <jeffnadeau@gmail.com>
+elmot <me@elmot.xyz>
+eriklumme <erik@vaadin.com>
+haiwan <alwin.wang.oocl@gmail.com>
+hlxnd <hal.x@web.de>
+johan <johan@vaadin.com>
+mrminy <mikkelsn92@gmail.com>
+tapio <tapio@vaadin.com>
+vt512 <vt512@users.noreply.github.com>
